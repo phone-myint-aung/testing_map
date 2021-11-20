@@ -1,4 +1,4 @@
-package com.example.testing_map
+package com.example.googlemaptesting
 
 import io.flutter.embedding.android.FlutterActivity
 
